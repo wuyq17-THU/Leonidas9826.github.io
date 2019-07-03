@@ -1,0 +1,42 @@
+#background1 {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+}
+
+.header {
+    padding: 30px;
+    text-align: center;
+    background: white;
+    margin-top: 450px;
+}
+
+.header h1 {
+    font-size: 40px;
+}
+
+.artical {
+    width: 50%;
+    background-color: rgb(240, 240, 240);
+    padding: 20px;
+    margin-top: 20px;
+    margin: auto;
+}
+
+.artical h2 {
+    text-align: center;
+}
+
+.artical h5 {
+    text-align: center;
+}
+
+.footer {
+    padding: 20px;
+    text-align: center;
+    background: #ddd;
+    margin-top: 20px;
+}
